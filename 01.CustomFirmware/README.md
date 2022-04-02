@@ -91,5 +91,28 @@ USB의 PS3/UPDATE에 ofw를 담은후 system update를 이용하여 설치
 3. evilnat 버전의 CFW 를 설치
 4. 정펌을 설치
 > NOTE. 설치의 역순
+ 
+## 8. 에러 대처 
+```
+o ps3 하드 교체시 에러 발생 대처
+결론 - NTFS 로 포맷후 Firmware 설치
+https://www.reddit.com/r/PS3/comments/b4eadg/hard_drive_replacement_from_hell_help_please/
+
+o PSN 연결 문제
+https://www.reddit.com/r/ps3homebrew/comments/pykpdy/on_484_rebug_dex_ps3_has_never_connected_to_psn/
+
+chance ban is high in that old version, use updated CFW evilnat 4.88.2 for updated and normal online play/services (follow correct setup and options in changelog is adviced) not use spoof, psntool, multiman etc not neccesary anymore (games run from xmb with webmamond install) and use only .ISO dumps or store instaled content for online (not use JB old folder dumps or modded content), Rebug DEX setup is usefull for homebrew developers / debuggers only but common user is not neccesary or have any advantages
+
+=> evilnat 4.88.2 버전이 좋긴 한데 JB folder 형식의 게임은 실행이 안되는듯?
+
+o PSN 연결
+How To Switch From CEX To DEX 4.84 And Get Back Online Rebug 4.84 CFW 2021
+https://youtu.be/ZTT3blhcWNw
+
+=> 안되는듯...
+
+
+```
+
 ___
 .END OF CUSTOMFIRMWARE

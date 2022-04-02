@@ -22,9 +22,39 @@ PS3 의 4.88 OFW(소니 공식 펌웨어) 환경에서 커펌 실행
   - region 별로 계정 생성하는 것도 나쁘지는 않으나 굳이 그렇게 할 필요는 없음
   - 이 계정을 이용해서 커펌에 사용
 
+## 추천 사이트
+```
+o 소니 정식 펌웨어
+https://www.playstation.com/en-us/support/hardware/ps3/system-software/
+
+o game list
+https://www.pushsquare.com/ps3/games/browse
+https://psndl.net/packages
+
+https://jkimgametips.tistory.com/769
+NPS 브라우저 <= PSVita에도 해당
+
+https://vimm.net/vault/PS3
+
+https://www.gametdb.com
+
+https://www.psdevwiki.com/ps3/CFW2OFW_Compatibility_List
+
+https://store.brewology.com/
+
+
+o  아이리스맨 사이트
+https://github.com/aldostools/IRISMAN/releases
+
+o 웹맨 사이트
+https://github.com/aldostools/webMAN-MOD/wiki
+
+```
+
 ## 설치 상세 (순서대로)
 * [01. 커펌 설치](01.CustomFirmware/README.md)
-* [02. 패키지 설치](02.Package/README.md)
+* [02. 홈브류 설치](02.Homebrew/README.md)
+* [02. 게임 설치](02.Game/README.md)
 
 ___
 .END OF README
