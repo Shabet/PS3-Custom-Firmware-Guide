@@ -13,9 +13,11 @@ ref) How to Jailbreak your PS3 Version 4.88 (2022):
 1. 하드디스크를 MBR방식의 NTFS로 포맷(WINDOWS키+R distmgmt.msc 실행에서 하는게 좋음)
 2. 포맷한 HDD 장착
 3. 최신의 OFW 를 USB의 PS3/UPDATE 폴더에 넣고 USB 두번째에 연결(포트는 상관없으나 두번째에 연결하는게 좋음)
-4. 설치후 create user로 psn 계정생성하고 psn으로 연결후 마련한 psn계정으로 로그인
+* HDD를 새로 장착하였으므로 USB를 통해 공식 펌웨어 설치
+* 이미 커펌한 PS3의 경우에는 마지막으로 커펌한 펌웨어를 USB에 넣고 해야함! (따라서 커펌한 PS3은 공식 펌웨어로 되돌리고 하는 것을 추천. 되돌리는 방식은 아래에 따로 설명)
+4. 설치후 Create User로 psn이란 이름으로(아무이름이나 상관없음) 계정을 생성하고 생성한 계정으로 로그인한 다음 만들어둔 psn 로그인 계정으로 로그인
 5. 로그인 한 다음 빠져나와서 account management 세모 버튼 클릭후 나오는 메뉴에서 activate system에서 GAME 선택후 activate
-6. create user로 hen 계정생성하고 hen 계정으로 로그인
+6. ~~create user로 hen 계정생성하고 hen 계정으로 로그인~~ <= 필요없음
 7. web browser에서 ps3xploit.com 연결
 8. flash를 usb로 dump
 9. dump한 파일을 pc로 가져와 PyPS3checker dump 파일 체크(python 2.7 설치 필요)
