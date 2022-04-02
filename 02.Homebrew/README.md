@@ -15,15 +15,6 @@ usb는 /packages/ 또는 / 디렉토리에 pkg 파일을 복사
 o PC에 PS3 에뮬 설치
 https://gamepublish.tistory.com/115
 
-
-o XMB 폴더 구성하기
-https://youtu.be/SovS4R-Q_OE
-
-o webman ftp 암호설정
-https://github.com/aldostools/webMAN-MOD/discussions/469
-web 설정에 있음
-NOTE. ******** 로 설정함
-
 o 커펌후 디렉토리
 변환 할필요없이 쉽게 설명해서 USB 기준 게임 담는 방법을 알려드릴께요
 1. USB > PACKAGES 폴더생성>PKG파일 넣기
@@ -47,7 +38,17 @@ NOTE. ps3 80010006 error <- pkg 파일명에 특수문자가 있거나 너무 �
 
 USB 구성은,
 /PKG/ 폴더에 pkg 파일
+```
 
+## 기타 설정
+```
+o XMB 폴더 구성하기
+https://youtu.be/SovS4R-Q_OE
+
+o webman ftp 암호설정
+https://github.com/aldostools/webMAN-MOD/discussions/469
+web 설정에 있음
+NOTE. ******** 로 설정함
 ```
 
 ___
