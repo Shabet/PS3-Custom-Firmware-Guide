@@ -54,7 +54,7 @@ https://github.com/aldostools/webMAN-MOD/wiki
 ## 설치 상세 (순서대로)
 * [01. 커펌 설치](01.CustomFirmware/README.md)
 * [02. 홈브류 설치](02.Homebrew/README.md)
-* [02. 게임 설치](02.Game/README.md)
+* [03. 게임 설치](03.Game/README.md)
 
 ___
 .END OF README
