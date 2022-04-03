@@ -10,6 +10,10 @@
 ref) How to Jailbreak your PS3 Version 4.88 (2022):
       https://youtu.be/XT52VK2GDNg
 
+여기서는 EVILNAT 4.88 + Rebug 4.82 DEX 설치를 기준으로 함. 
+
+Hibrid 방식의 설치가 아니기 때문에 추후에 PS3 HEN app은 설치할 필요가 없음.
+
 1. 하드디스크를 MBR방식의 NTFS로 포맷(WINDOWS키+R distmgmt.msc 실행에서 하는게 좋음)
 2. 포맷한 HDD 장착
 3. 최신의 OFW 를 USB의 PS3/UPDATE 폴더에 넣고 USB 두번째에 연결(포트는 상관없으나 두번째에 연결하는게 좋음)
