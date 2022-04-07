@@ -66,6 +66,7 @@ https://youtu.be/Y4IOllFamjQ
 1. HDD 의 packages 폴더에 pkg 파일 없로드
 2. HDD 의 exdata 폴더에 rap 파일 업로드
 3. psnpatch app을 실행하여 rap 파일 적용
+   => D패드의 방향키를 위아래를 눌러서 hdd로 선택한 다음 L1을 눌러서 적용 및 O 키를 눌러 exit
 4. XMB의 Install Package 메뉴를 통해서 설치
 ``` 
 > NOTE. 확장자는 소문자로 할것!(커펌 버전에 따라 대문자인경우 에러가 나는 경우가 있음.)
@@ -76,15 +77,49 @@ https://youtu.be/Y4IOllFamjQ
 2. USB 의 exdata 폴더에 rap 파일 업로드
 3. psnpatch app을 실행하여 rap 파일 적용
 4. XMB의 Install Package 메뉴를 통해서 설치
-``` 
+```
 
-## 4. RetroArch 설치
+## 4. PS1, PS2, PS3, PSP ISO 게임 설치
+ref) https://youtu.be/iSt6VpxE2c8
+
+PS1, PS3은 폴더 형식으로 사용가능하고 PS2, PSP는 ISO로 변환해서 사용하자!
+
+PSP는 내부 HDD에 복사한 다음 실행해야함. PS1, PS2 는 USB에서도 실행가능
+
+디렉토리구조는, HDD와 USB가 동일
+
+PSXISO/ : PS1용 iso파일 위치
+PS2ISO/ : PS2용 iso파일 위치
+PS3ISO/ : PS3용 iso파일 위치
+PSPISO/ : PSP용 iso파일 위치
+
+* PSP to ISO Tools
+다운로드 링크
+ 
+https://www.psx-place.com/resources/ps3-iso-tools.68/
+
+* PSP Launcher
+https://github.com/aldostools/webMAN-MOD/releases
+> NOTE. 현재 설치한 Rebug 4.82 DEX 에서는 PSP Launcher가 설치가 안됨.
+ 
+>  Cobra PSP Lancher v2.00 by Cobra에서 [Official by COBRA] 를 다운받아 설치하면 됨.
+
+호환성은 아래에서 확인 할것!
+
+https://www.psdevwiki.com/ps3/PSP_Emulator_Compatibility_List
+
+
+
+
+
+
+## 5. RetroArch 설치
 ```
 o RetroArch 설정 방법
 https://youtu.be/XUn5bEX5dk4
 ```
 
-## 5. 기타
+## 6. 기타
 ```
 o PC에 PS3 에뮬 설치
 https://gamepublish.tistory.com/115
