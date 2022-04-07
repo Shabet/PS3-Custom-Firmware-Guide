@@ -27,28 +27,42 @@ PS3 의 4.88 OFW(소니 공식 펌웨어) 환경에서 커펌 실행
 o 소니 정식 펌웨어
 https://www.playstation.com/en-us/support/hardware/ps3/system-software/
 
-o game list
+o game list 조회
 https://www.pushsquare.com/ps3/games/browse
+https://www.pushsquare.com/psvita/games/browse
+
+o NPS 브라우저
 https://psndl.net/packages
-
+https://nopaystation.com/browse
 https://jkimgametips.tistory.com/769
-NPS 브라우저 <= PSVita에도 해당
 
+o JB folder 형식의 게임
 https://vimm.net/vault/PS3
 
+o game list 조회
 https://www.gametdb.com
 
+o 게임 호환 여부 조회
 https://www.psdevwiki.com/ps3/CFW2OFW_Compatibility_List
 
+o 홈브류
 https://store.brewology.com/
 
+o 플스 관련 게시판
+https://www.psx-place.com
 
-o  아이리스맨 사이트
+o wiki
+https://consolemods.org/wiki/Main_Page
+
+o PS Vita 커펌 가이드
+https://vita.hacks.guide
+
+o 아이리스맨 사이트
 https://github.com/aldostools/IRISMAN/releases
 
-o 웹맨 사이트
+o 웹맨 사이트 (자주 업데이트됨.)
 https://github.com/aldostools/webMAN-MOD/wiki
-
+https://github.com/aldostools/webMAN-MOD/releases
 ```
 
 ## 설치 상세 (순서대로)
