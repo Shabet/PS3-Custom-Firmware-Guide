@@ -30,6 +30,8 @@ https://www.playstation.com/en-us/support/hardware/ps3/system-software/
 o game list 조회
 https://www.pushsquare.com/ps3/games/browse
 https://www.pushsquare.com/psvita/games/browse
+https://www.metacritic.com/browse/games/score/metascore/all/ps3/filtered?view=detailed&page=0
+
 
 o NPS 브라우저
 https://psndl.net/packages
