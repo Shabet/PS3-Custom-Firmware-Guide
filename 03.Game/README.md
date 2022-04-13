@@ -93,6 +93,22 @@ PS2ISO/ : PS2용 iso파일 위치
 PS3ISO/ : PS3용 iso파일 위치
 PSPISO/ : PSP용 iso파일 위치
 
+* PS2 ISO를 위한 bin to ISO 변환
+
+ref) https://youtu.be/Axp4-M2srqw
+
+  1. https://oplmanager.com/site/ 의 프로그램을 이용하여 bin 파일을 iso 파일로 변환
+
+  2. PS2ISO 폴더에 iso 복사
+
+  3. Webman refresh
+
+  4. webman에서 ps2 게임을 선택하면 CD로 load됨
+
+  5. CD 를 실행하여 게임 실행
+
+  NOTE. PS2 게임을 처음 실행한다면 Internal Memory 가 필요하다고 팝업창이 뜨는데 그냥 하나 만들면 됨.(게임 세이브 용도임)
+
 * PSP to ISO Tools
 다운로드 링크
  
