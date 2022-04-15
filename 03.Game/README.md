@@ -33,7 +33,7 @@ USB 구성은, /PKG/ 폴더에 pkg 파일
 ```
 > NOTE. 폴더명이 packages가 아니라 PKG ???
 
-## 1. 폴더 형식(JB Folder) 게임 설치
+## 1. 폴더 형식(JB Folder) 게임 설치 (feat. vimm.net)
 ```
 o 폴더 형식 게임 설치 방법
 https://youtu.be/Y4IOllFamjQ
@@ -52,7 +52,7 @@ https://youtu.be/Y4IOllFamjQ
 5. 멀티맨이나 아이리스맨을 통해 실행한 후 CD로 마운트되면 실행하여서 설치 진행
 ```
 
-## 2. ISO 형식 게임 설치
+## 2. ISO 형식 게임 설치 (대부분 변환 과정을 거쳐 ISO 파일 생성 필요.)
 ```
 1. HDD의 PS3ISO 폴더에 iso 파일 업로드
 2. 멀티맨을 통해서 실행(게임 선택하고 X 키 누르고 나오는 메뉴에서 Load 선택)
@@ -60,7 +60,7 @@ https://youtu.be/Y4IOllFamjQ
 4. 실행하면 설치가 진행되면서 실행됨.
 ```
 
-## 3. pkg 형식 게임 설치
+## 3. pkg 형식 게임 설치 (feat. NPS Browser)
 * HDD
 ```
 1. HDD 의 packages 폴더에 pkg 파일 없로드
