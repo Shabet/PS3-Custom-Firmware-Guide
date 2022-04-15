@@ -71,7 +71,6 @@ https://github.com/aldostools/webMAN-MOD/releases
 * [01. 커펌 설치](01.CustomFirmware/README.md)
 * [02. 홈브류 설치](02.Homebrew/README.md)
 * [03. 게임 설치](03.Game/README.md)
-* [04. PSVita 게임 설치](04.PSVita/README.md)
  
 ___
 .END OF README
