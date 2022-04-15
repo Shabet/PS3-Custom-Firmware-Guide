@@ -52,4 +52,4 @@ NOTE. ******** 로 설정함
 ```
 
 ___
-.END OF PACKAGE
+.END OF HOMEBREW
