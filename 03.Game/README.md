@@ -73,7 +73,7 @@ https://youtu.be/Y4IOllFamjQ
 ## 3. pkg 형식 게임 설치 (feat. NPS Browser)
 * HDD
 ```
-1. HDD 의 packages 폴더에 pkg 파일 없로드
+1. HDD 의 packages 폴더에 pkg 파일 업로드
 2. HDD 의 exdata 폴더에 rap 파일 업로드
 3. psnpatch app을 실행하여 rap 파일 적용
    => D패드의 방향키를 위아래를 눌러서 hdd로 선택한 다음 L1을 눌러서 적용 및 O 키를 눌러 exit
@@ -86,7 +86,7 @@ https://youtu.be/Y4IOllFamjQ
 
 * USB
  ```
-1. USB 의 PKG 폴더에 pkg 파일 없로드
+1. USB 의 PKG 폴더에 pkg 파일 업로드
 2. USB 의 exdata 폴더에 rap 파일 업로드
 3. psnpatch app을 실행하여 rap 파일 적용
 4. XMB의 Install Package 메뉴를 통해서 설치
@@ -136,10 +136,6 @@ https://github.com/aldostools/webMAN-MOD/releases
 호환성은 아래에서 확인 할것!
 
 https://www.psdevwiki.com/ps3/PSP_Emulator_Compatibility_List
-
-
-
-
 
 
 ## 5. RetroArch 설치
