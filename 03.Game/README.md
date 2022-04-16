@@ -13,6 +13,16 @@
 ```
 
 ```
+전체 폴더 구성은,
+/app_home/    : 
+/dev_bdvd/    : 
+/dev_flash/   :  
+/dev_flash2/  : 
+/dev_flash3/  : 
+/dev_hdd0/    : 내부 HDD
+```
+
+```
 o 커펌후 디렉토리
 변환 할필요없이 쉽게 설명해서 USB 기준 게임 담는 방법을 알려드릴께요
 1. USB > PACKAGES 폴더생성>PKG파일 넣기
@@ -70,6 +80,9 @@ https://youtu.be/Y4IOllFamjQ
 4. XMB의 Install Package 메뉴를 통해서 설치
 ``` 
 > NOTE. 확장자는 소문자로 할것!(커펌 버전에 따라 대문자인경우 에러가 나는 경우가 있음.)
+ 
+> NOTE. packages와 exdata 폴더 구조는 PS3의 HDD와 NPS Browser가 동일함.
+
 
 * USB
  ```
