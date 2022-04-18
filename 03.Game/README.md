@@ -54,6 +54,7 @@ USB 구성은, /PKG/ 폴더에 pkg 파일
 2. pkg 확장자 파일의 게임을 받은 경우에는
    추가적으로 rap 확장자 파일을 받은 다음, pkg파일은 PS3 HDD상의 packages 폴더에 rap 파일은 exdata 폴더에 복사(ftp를 이용하는게 편함)
    psnpatch 를 이용하여 patch 실행한다음, Package Install에서 게임 선택후 게임 설치
+   NOTE. pkg 파일명에 (R)과 같은 툭수문자가 들어가 있으면 제거할것(설치시 에러 발생)
 
 3. PS2게임을 받은 경우에는(bin 파일)
    OPLManager 프로그램을 이용하여 ISO 파일로 변환한 다음 PS3 HDD상의 PS2ISO 폴더에 복사(ftp를 이용하는게 편함)
